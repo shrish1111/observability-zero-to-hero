@@ -1,0 +1,4 @@
+otel multi language api application project
+
+https://opentelemetry.io/docs/demo/architecture/
+
